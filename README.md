@@ -1,4 +1,4 @@
-added something
+added new
 # micrograd
 
 ![awww](puppy.jpg)
