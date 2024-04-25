@@ -1,4 +1,4 @@
-added new
+ttttbonjour a tous
 # micrograd
 
 ![awww](puppy.jpg)
